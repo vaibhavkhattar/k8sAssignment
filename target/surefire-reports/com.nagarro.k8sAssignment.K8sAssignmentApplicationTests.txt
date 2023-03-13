@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nagarro.k8sAssignment.K8sAssignmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.331 s - in com.nagarro.k8sAssignment.K8sAssignmentApplicationTests
