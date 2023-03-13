@@ -1,5 +1,5 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/even-ruler-380507/k8s_Assignment', '.']
+    args: ['build', '-t', 'gcr.io/even-ruler-380507/k8s_assignment', '.']
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/even-ruler-380507/k8s_Assignment']
+    args: ['push', 'gcr.io/even-ruler-380507/k8s_assignment']
